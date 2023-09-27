@@ -1,6 +1,6 @@
 # Object-Oriented Programming Library Main Tasks
 
-### **luluchuchu** group:
+## **luluchuchu** group:
 
 - 1.Nafi Ilham 19102116 Project Manager
 - 2.Lizamuddin Alhasan 19102297 System analysis
@@ -9,7 +9,7 @@
 
 <p align="justify">The application we created is called My Library, this application was created to facilitate and improve the performance of library staff in serving library book loan transactions. This application can be accessed by admin and library staff, admin and staff need a username and password to access the application. In the application, there are login, loan, and return menus.  Admins can access the loan and book data menu, while officers can access the book data, loan, and return menus. It is hoped that this application can make it easier for officers as well as book borrowers to be faster and more efficient.</p>
 
-- Display Application MyLibrary :
+### Display Application MyLibrary :
 - Login
 
 ![image](https://user-images.githubusercontent.com/78722785/128624186-162a96ea-d7c4-4588-8f7c-b05f2d37681d.png)
